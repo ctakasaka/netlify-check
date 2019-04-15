@@ -1,0 +1,39 @@
+body{
+    background-color:grey;
+    font-family: Arial,sans-serif;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+h1{
+    margin: 0;
+}
+#container{
+    background-color:grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    background-color:black;
+    color: whitesmoke;
+    text-align: center;
+}
+#content{
+    padding: 10; 
+}
+#nav{
+    float: left;
+}
+#nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+#main{
+    float: right;
+}
+#footer{
+    clear: both;
+    padding: 10;
+    text-align: right;
+}
